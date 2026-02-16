@@ -1,4 +1,4 @@
-Gemini said
+
 Kütüphane Otomasyonu
 Temel Özellikler
 Rol Bazlı Erişim: Admin ve Üye için ayrı giriş, kayıt ve yetkilendirme sistemi.
